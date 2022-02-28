@@ -1,0 +1,36 @@
+
+/*styles for my resume*/
+
+h1,h2,h3,h4,h5,h6, p, li {
+color: #444;
+font-size: 1 em;
+font-family: Open sans-serif;}
+
+body{
+font-weight: 400;
+}
+/*banner name*/
+h1{
+font-size: 3 em;
+color: blue;
+text-align: center;
+text-transform: uppercase;
+}
+h2{
+font-size: 3 em;
+}
+h5{font-style:italic;
+}
+#journalist{font-size: 1.5 em;
+color: blue;
+text-transform: uppercase;
+background-color: white;}
+/*Creating background color for section headers*/
+h2 {background-color: blue;
+  color:white;
+font-size: 1.5 em;
+text-transform: uppercase}
+
+h3 {font-weight:600;
+  font-size: 1.5 em;}
+h3 {font-size: 1.5 em;}

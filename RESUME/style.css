@@ -1,0 +1,17 @@
+h1,h2,h3,h4,h5,h6, p, li {
+color: #444;
+font-size: 1 em;
+font-family: Open sans-serif;}
+
+body{
+font-weight: 400;
+}
+h1{
+font-size: 3 em;
+color: blue;
+text-align: center;
+text-transform: uppercase;
+}
+h2{
+font-size: 3 em;
+}

@@ -16,11 +16,10 @@ color: blue;
 text-align: center;
 text-transform: uppercase;
 }
+
 h2{
 font-size: 3 em;
-}
-h5{font-style:italic;
-}
+
 #journalist{font-size: 1.5 em;
 color: blue;
 text-transform: uppercase;
@@ -33,6 +32,7 @@ text-transform: uppercase}
 
 .jobtitle {font-weight:600;
   font-size: 1.5 em;}
+
 #name{
 border-bottom: 10 px;
 border-color: #33485e;
@@ -41,6 +41,7 @@ margin: 0 auto;
 width: 60%;
 min-width: 300 px;
 }
+
 .sectionheader{
 margin-bottom: 10 px;
 margin-top: 20 px;
@@ -49,6 +50,24 @@ margin-right: 0 px;
 width: 70%;
 min-width: 300 px;
 }
+
 .organization{
   font-size: 1.25 em;
+}
+
+.date {
+  font-style:italic;
+  margin-top: 2 px;
+  margin-bottom: 0 px;
+  margin-left: 0 px;
+  margin-right: 0 px;
+}
+.description {
+  margin-top: 10 px;
+  margin-bottom: 10 px;
+  margin-left: 0 px;
+  margin-right: 0 px;
+
+
+
 }

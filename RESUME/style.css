@@ -31,15 +31,24 @@ h2 {background-color: blue;
 font-size: 1.5 em;
 text-transform: uppercase}
 
-h3 {font-weight:600;
+.jobtitle {font-weight:600;
   font-size: 1.5 em;}
-h3 {font-size: 1.5 em;}
 #name{
-border-bottom: 1 px;
-border-color: 33485e;
+border-bottom: 10 px;
+border-color: #33485e;
+border-style: solid;
 margin: 0 auto;
 width: 60%;
 min-width: 300 px;
-
-
+}
+.sectionheader{
+margin-bottom: 10 px;
+margin-top: 20 px;
+margin-left: 0 px;
+margin-right: 0 px;
+width: 70%;
+min-width: 300 px;
+}
+.organization{
+  font-size: 1.25 em;
 }

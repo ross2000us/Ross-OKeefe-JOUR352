@@ -5,18 +5,24 @@ h1,h2,h3,h4,h5,h6, p, li {
 color: #444;
 font-size: 1 em;
 font-family: Open sans-serif;}
-
+#container{
+  width: 100%;
+  max-width: 1200 px;
+  margin: 0 auto;
+  padding-bottom: 50 px;
+}
 body{
-font-weight: 400;
+  font-weight: 400;
+  /*The above sets a universal font-weight for the document*/
 }
 /*banner name*/
 h1{
-font-size: 3 em;
-color: blue;
-text-align: center;
-text-transform: uppercase;
+  font-size: 3 em;
+  color: blue;
+  text-align: center;
+  text-transform: uppercase;
 }
-
+/*The above keeps the header blue and big*/
 h2{
 font-size: 3 em;
 
@@ -32,7 +38,7 @@ text-transform: uppercase}
 
 .jobtitle {font-weight:600;
   font-size: 1.5 em;}
-
+/*This one will create a black outline around my name*/
 #name{
 border-bottom: 10 px;
 border-color: #33485e;
@@ -41,7 +47,12 @@ margin: 0 auto;
 width: 60%;
 min-width: 300 px;
 }
-
+#degrees{
+  margin-top: 5 px;
+  margin-left: 0 px;
+  margin-right: 0 px;
+  margin-bottom: 0 px;
+}
 .sectionheader{
 margin-bottom: 10 px;
 margin-top: 20 px;
@@ -68,6 +79,16 @@ min-width: 300 px;
   margin-left: 0 px;
   margin-right: 0 px;
 
-
-
+}
+.menu {
+text-align: center;
+margin: 0 px;
+padding: 0 px;
+display: inline;
+}
+#do{
+margin-top: 5 px;
+margin-left: 0;
+margin-right: 0 px;
+margin-bottom: 0 px;
 }

@@ -106,13 +106,12 @@ background-color: white;
 #MJ
 {font-size: 25px;
 font-style: bold;
-text-align: center;
 border-bottom: 1px;
 border-color: #33485e;
 border-style: solid;
 margin: 0 auto;
 width: 60%;
-min-width: 400px;
+min-width: 500px;
 color: blue;
 text-align: center;
 text-transform: uppercase;

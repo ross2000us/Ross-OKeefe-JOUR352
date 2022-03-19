@@ -91,8 +91,29 @@ body{
 }
 #title{
   font-weight: 600;
-  margin-top: 20 px;
-  margin-left: 0 px;
-  margin-right: 0 px;
-  margin-bottom: 0 px;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+#footer{
+text-align: center;
+font-style: italic;
+font-size: 20px;
+color: black;
+background-color: white;
+}
+#MJ
+{font-size: 25px;
+font-style: bold;
+text-align: center;
+border-bottom: 1px;
+border-color: #33485e;
+border-style: solid;
+margin: 0 auto;
+width: 60%;
+min-width: 400px;
+color: blue;
+text-align: center;
+text-transform: uppercase;
 }

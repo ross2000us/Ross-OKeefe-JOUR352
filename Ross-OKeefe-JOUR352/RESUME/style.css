@@ -40,10 +40,6 @@ body{
   text-align: center;
   text-transform: uppercase;
 }
-<<<<<<< HEAD
-=======
-/*Adjusts margins*/
->>>>>>> 6ceadfc734bd269c5d91eee674088c9e37423fe9
 #degrees{
   margin-top: 5px;
   margin-left: 0px;
@@ -95,7 +91,6 @@ body{
 }
 #title{
   font-weight: 600;
-<<<<<<< HEAD
   margin-top: 20px;
   margin-left: 0px;
   margin-right: 0px;
@@ -120,10 +115,4 @@ min-width: 500px;
 color: blue;
 text-align: center;
 text-transform: uppercase;
-=======
-  margin-top: 20 px;
-  margin-left: 0 px;
-  margin-right: 0 px;
-  margin-bottom: 0 px;
->>>>>>> 6ceadfc734bd269c5d91eee674088c9e37423fe9
 }

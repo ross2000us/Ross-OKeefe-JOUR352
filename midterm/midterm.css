@@ -1,0 +1,47 @@
+p {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+}
+
+h2 {
+font-family: Georgia,serif;
+font-style: bold;
+font-style: italic;
+font-size: 24px;
+border: navy;
+border-style: solid;
+background-color: maroon;
+color: white;
+}
+#pullquote{
+font-size: 18px;
+font-style: bold;
+border: black;
+border-width: 1px;
+border: navy;
+border-style: solid;
+background-color: maroon;
+color: white;
+}
+/*Creating a border to help the quote stand out*//
+#layout {
+column-gap: normal;
+column-count: 1;
+column-rule-style: solid;
+column-rule-width: 1px;
+column-span: all;
+text-align:center;
+}
+#byline {
+  font-family: Georgia,serif;
+  font-style: italic;
+  font-size:16px;
+  color: gray;
+}
+#masthead {
+border-width: 30px;
+border: navy;
+border-style: solid;
+background-color: maroon;
+color: white;
+}

@@ -16,8 +16,19 @@ font-style: bold;
 border: black;
 border-width: 1px;
 border-style: ridge;
-/*Creating a border to help the quote stand out*/
 }
-#picture{
-align-self: center;
+/*Creating a border to help the quote stand out*//
+#layout {
+column-gap: normal;
+column-count: 1;
+column-rule-style: solid;
+column-rule-width: 1px;
+column-span: all;
+text-align:center;
+}
+#byline {
+  font-family: Georgia,serif;
+  font-style: italic;
+  font-size:16px;
+  color: gray;
 }

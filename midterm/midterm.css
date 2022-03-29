@@ -8,14 +8,20 @@ font-family: Georgia,serif;
 font-style: bold;
 font-style: italic;
 font-size: 24px;
+border: navy;
+border-style: solid;
+background-color: maroon;
+color: white;
 }
 #pullquote{
-color: maroon;
 font-size: 18px;
 font-style: bold;
 border: black;
 border-width: 1px;
-border-style: ridge;
+border: navy;
+border-style: solid;
+background-color: maroon;
+color: white;
 }
 /*Creating a border to help the quote stand out*//
 #layout {
@@ -31,4 +37,11 @@ text-align:center;
   font-style: italic;
   font-size:16px;
   color: gray;
+}
+#masthead {
+border-width: 30px;
+border: navy;
+border-style: solid;
+background-color: maroon;
+color: white;
 }

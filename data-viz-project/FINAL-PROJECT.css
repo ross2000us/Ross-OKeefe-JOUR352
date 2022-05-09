@@ -1,0 +1,47 @@
+h1 {
+text-align: center;
+color: red;
+background-color: blue;
+border-style: ridge;
+border-width: thick;
+border-color: red;
+}
+#h2 {
+border-style: groove;
+border-color: red;
+border-width: thick;
+margin-top: -60px;
+}
+#quote {
+background-color: #D3D3D3;
+border-width: medium;
+border-style: solid;
+border-color: black;
+font-size: 20px;
+font-style: italic;
+font-style: bold;
+text-align: center;
+}
+p {
+margin-left: 10px;
+font-family: 'Roboto Flex', sans-serif;
+}
+#caption {
+text-align: center;
+}
+#opening {
+  font-style: italic;
+  text-align: center;
+  margin-top: -40px;
+}
+@media (min-width: 544px) {
+  h1 {font-size:1.5rem;} /*Thanks to codegrepper for the Bootstrap responsive layout*/
+}
+@media (min-width: 768px) {
+  h1 {font-size:2rem;}
+}
+@media (min-width: 992px) {
+  h1 {font-size:2.5rem;}
+}
+@media (min-width: 1200px) {
+  h1 {font-size:3rem;}
